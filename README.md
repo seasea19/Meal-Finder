@@ -16,5 +16,8 @@ The following required functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-https://imgur.com/a/vY4JHDo
+
+
+https://user-images.githubusercontent.com/59550990/151466115-93a0b69e-83c9-4f00-bc76-99231cd6f4b2.mp4
+
 
