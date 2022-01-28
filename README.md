@@ -1,6 +1,6 @@
 # Meal Finder
  
-Project 1 - Meal Finder
+Project 1- Meal Finder
 Meal Finder is a front end project that allows user to search food. Once the user taps in the search bar the name of the meal, it will show them a picture of it and once the user click on it, they will see the recipe of it at the bottom with its required ingredients as its origin.
 
 Submitted by: Chelsea Alcinord
