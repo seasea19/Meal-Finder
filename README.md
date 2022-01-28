@@ -7,9 +7,9 @@ Meal Finder is a front end project that allows user to search food. Once the use
 User Stories
 The following required functionality is completed:
 
-[] User can search in thab
-[] app shows meals based on the typed words.
-[] User can see the origin of the meal and  the recipe with the ingredients.
+[✓] User can search in thab
+[✓] app shows meals based on the typed words.
+[✓] User can see the origin of the meal and  the recipe with the ingredients.
 
 Here's a walkthrough of implemented user stories:
 
